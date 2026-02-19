@@ -6,7 +6,7 @@
 
 *Streamline your dormitory operations with intelligent automation*
 
-**Developed by Akaansh Yadav**
+**Developed by Aakansh Yadav**
 
 [![MERN Stack](https://img.shields.io/badge/Stack-MERN-green.svg)](https://www.mongodb.com/)
 [![Redux](https://img.shields.io/badge/State-Redux-purple.svg)](https://redux.js.org/)
@@ -162,7 +162,7 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 
 ## 👨‍💻 Developer
 
-**Akaansh Yadav**
+**Aakansh Yadav**
 
 For queries or suggestions, feel free to reach out!
 
