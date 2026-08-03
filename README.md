@@ -6,7 +6,7 @@
 
 *Streamline your dormitory operations with intelligent automation*
 
-**Developed by Akaansh Yadav**
+**Developed by Aakansh Yadav**
 
 [![MERN Stack](https://img.shields.io/badge/Stack-MERN-green.svg)](https://www.mongodb.com/)
 [![Redux](https://img.shields.io/badge/State-Redux-purple.svg)](https://redux.js.org/)
@@ -45,9 +45,8 @@ DormIQ is a comprehensive web-based dormitory management solution built with mod
 
 1. **Clone the repository**
    ```bash
-   git clone <repository-url>
+   git clone https://github.com/Aakansh-Yadav/DormIQ.git
    cd DormIQ
-   ```
 
 2. **Install dependencies**
    ```bash
